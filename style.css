@@ -1,0 +1,22 @@
+:root {
+
+    /* colors */
+    --yellow: hsl(47, 88%, 63%);
+
+    --white: hsl(0, 0%, 100%);
+    --grey: hsl(0, 0%, 50%);
+    --black: hsl(0, 0%, 7%);
+
+    /* font size */
+    --fs-400: 1rem;
+
+    /* font weight */
+    --fw-semi-bold: 600;
+    --fw-extra-bold: 800;
+
+    /* components */
+    --clr-primary: var(--yellow);
+    --clr-card-primary: var(--white);
+    --clr-text-primary: var(--black);
+    --clr-text-secondary: var(--grey);
+}
