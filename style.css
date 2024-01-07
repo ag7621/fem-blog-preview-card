@@ -70,5 +70,20 @@ h6 {
 }
 
 html {
+    background-color: var(--clr-primary);
     font-family: 'Figtree', sans-serif;
+}
+
+body {
+    height: 100%;
+}
+
+main {
+    display: grid;
+    place-content: center;
+    height: 100%;
+}
+
+.card_container {
+    background-color: var(--clr-card-primary);
 }
